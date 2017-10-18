@@ -1,0 +1,31 @@
+{
+  "name": "learn-npm-and-webpack",
+  "version": "1.0.0",
+  "description": "学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanghao1327391/learn-npm-and-webpack.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "webpack",
+    "sass"
+  ],
+  "author": "黄豪",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huanghao1327391/learn-npm-and-webpack/issues"
+  },
+  "homepage": "https://github.com/huanghao1327391/learn-npm-and-webpack#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "require": "^2.4.20",
+    "webpack": "^3.8.1"
+  }
+}
